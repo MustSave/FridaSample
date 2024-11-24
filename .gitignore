@@ -1,0 +1,4 @@
+__pycache__
+jadx/
+*.jar
+utils/frida-server
